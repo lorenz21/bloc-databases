@@ -88,4 +88,4 @@
 
   * SELECT ID FROM cats WHERE name != ‘Mushi’ AND gender = ‘M’;
 
-    A: ID for 3 and 4 are returned. The queries have back-ticks instead of quotes for the name and gender, so that might cause errors, I changed them to quotes. 
+    A: ID for 3 and 4 are returned. The queries have back-ticks instead of quotes for the name and gender, so that might cause errors, I changed them to quotes.
